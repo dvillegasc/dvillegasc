@@ -1,4 +1,4 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75E24&width=435&lines=Hi+%F0%9F%91%8B;I'm+David+Villegas)](https://git.io/typing-svg)
 
 <!--
 **dvillegasc/dvillegasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
